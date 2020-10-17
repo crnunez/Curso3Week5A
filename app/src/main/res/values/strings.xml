@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListaMascotas</string>
+    <string name="contacto">Contacto</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="txt_acerca_de">Desarrollado por Carlos Nuñez</string>
+    <string name="txt_form_contacto">Formulario de Contacto</string>
+    <string name="nombre_completo">Nombre de Usuario</string>
+    <string name="correo">Correo Electónico</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar Comentarios</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Titulo">Mascotas</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevation_actionbar">4dp</dimen>
+    <dimen name="radio_cardview">4dp</dimen>
+    <dimen name="size_pic">350dp</dimen>
+    <dimen name="size_hueso">40dp</dimen>
+    <dimen name="padding_hueso">10dp</dimen>
+    <dimen name="txt_title">30sp</dimen>
+    <dimen name="mensaje">250dp</dimen>
+</resources>
